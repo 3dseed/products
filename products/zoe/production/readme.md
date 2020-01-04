@@ -12,3 +12,4 @@
 |  Z_4_EX_HOPPER | Extrusion Hopper | https://a360.co/2stLbhk | 100x2 - 72x2 | <img src="./extrusion-hopper.jpg" width="200px"/> | <a href="./extrusion-hopper.pdf">PDF</a> |
 |  Z_4_HEXBAR | Hexbar | https://a360.co/2Q5W6XB | 32 | <img src="./hexbar.jpg" width="200px"/> | <a href="./hexbar.pdf">PDF</a> |
 |  Z_4_FRONT_SHIELD | Front shield | https://a360.co/37pDdVD | 149x2 - 72x2 | <img src="./front-shield.jpg" width="200px"/> | <a href="./front-shield.pdf">PDF</a> |
+|  Z_31_CLUTCH | Ex/Shredder - clutch | https://a360.co/2STbBE0 | 50 | <img src="./clutch.jpg" width="200px"/> | <a href="./clutch.pdf">PDF</a> |
