@@ -13,3 +13,4 @@
 |  Z_4_HEXBAR | Hexbar | https://a360.co/2Q5W6XB | 32 | <img src="./hexbar.jpg" width="200px"/> | <a href="./hexbar.pdf">PDF</a> |
 |  Z_4_FRONT_SHIELD | Front shield | https://a360.co/37pDdVD | 149x2 - 72x2 | <img src="./front-shield.jpg" width="200px"/> | <a href="./front-shield.pdf">PDF</a> |
 |  Z_31_CLUTCH | Ex/Shredder - clutch | https://a360.co/2STbBE0 | 50 | <img src="./clutch.jpg" width="200px"/> | <a href="./clutch.pdf">PDF</a> |
+|  Z4_FENCE | Fence | https://a360.co/2SYtGRc | 160x2 - 149x2 | <img src="./fence.jpg" width="200px"/> | <a href="./fence.pdf">PDF</a> |
