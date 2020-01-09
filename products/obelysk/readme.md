@@ -6,6 +6,8 @@
 |   | Coupling | Drive | 120 | 4 | 10 |  | Design |  |
 |   | Hopper | Feed | 150 | 6 | 16 |  | Design |  |
 |   | Shredder/Motor-Mounts | Framework |  |  |  |  |  |  |
+|   | Motor | Motor | 560 | 1 | 2 |  | Solved |  |
+|   |  |  |  |  |  |  |  |  |
 |   | Chassie/Enclosure | Framework | 300 | 16 | 24 |  |  | High |
 |   | Panels | Skinning |  | 5 | 10 |  |  | High |
 |   | Ventilation & Airfilter | Framework | 200 | 8 | 16 |  | Design |  |
@@ -22,9 +24,12 @@
 |   | Audio Feedback | Electronics | 10 | 1 | 1 |  | Solved |  |
 |   | Suspend/Resume | Electronics | 100 | 3 | 10 |  | Not impl. | Middle |
 |   | Inverter | Electronics | 250 | 2 | 1 |  | Solved | Middle |
+|   |  |  |  |  |  |  |  |  |
 |   | Control - Board / Fuses/,... | Electronics | 200 | 5 | 1 |  | Solved | Middle |
+|   |  |  |  |  |  |  |  |  |
 |   | Sourcing,... | Logistics | 150 | 10 |  |  |  |  |
-|  **Totals** |  |  | 3730 | 125 | 149 |  |  |  |
+|  **Totals** |  |  | 4290 | 126 | 151 |  |  |  |
+
 
 
 ## Version 3.5 Shredding System
