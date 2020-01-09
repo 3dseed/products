@@ -2,6 +2,10 @@
 
 General overview for a PET bottle vending shredder machine.
 
+[Shredder Test Videos](https://www.morrentrading.com/shredder-s/basis-shredderblok-am2018-200<br/>https://www.morrentrading.com/movies)
+
+[Shredder Pictures](https://www.morrentrading.com/shredder-s/basis-shredderblok-am2018-20)
+
 ![](./draft.png)
 
 
