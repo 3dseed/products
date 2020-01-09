@@ -2,6 +2,9 @@
 
 General overview for a PET bottle vending shredder machine.
 
+![](./draft.png)
+
+
 |   | **Component Name** | **Component Section** | **Component Price/Estimate** | **Production/Duration (hours)** | **Design/Prototyping-Duration (hours)** | **Picture/Video References** | **Status** | **Risk** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |   | Shredder Box | Shredding | 1450 | 24 | 12 | https://www.morrentrading.com/shredder-s/basis-shredderblok-am2018-200<br/>https://www.morrentrading.com/movies | Solved |  |
