@@ -22,6 +22,16 @@ General overview for a PET bottle vending shredder machine.
 - minimal user interface
 - power meter
 - service & maintenance interface via USB developer port
+- 2 cartridges: one big one for PET, one for the bottle caps/lids. both have wheels and a spring loaded door.
+- service door for cleaning
+
+### Optional features
+
+- large touchscreen for network KPIs and shredding profiles
+- key lock
+- haptic buttons
+- remote interface (IoT) for online metering
+- plastic scanner
 
 ![](./draft.png)
 
