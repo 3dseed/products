@@ -8,6 +8,21 @@ General overview for a PET bottle vending shredder machine.
 
 [Shredder firmware](https://github.com/plastic-hub/firmware/blob/master/shredder-extrusion/README.md)
 
+## Features of the first revision
+
+- IP55 grade housing and electronics
+- sound prove
+- auto - suspend/resume
+- air filters & ventilation
+- auto - reverse
+- load capacity : 4 large PET bottles at a time
+- transport wheels
+- auto-shred when hopper is loaded
+- LED & audio feedback
+- minimal user interface
+- power meter
+- service & maintenance interface via USB developer port
+
 ![](./draft.png)
 
    |  **Component Name** | **Component Section** | **Component Price/Estimate** | **Production/Duration (hours)** | **Design/Prototyping-Duration (hours)** | **Picture/Video References** | **Status** | **Risk** |
