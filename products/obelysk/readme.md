@@ -32,6 +32,8 @@ General overview for a PET bottle vending shredder machine.
 - haptic buttons
 - remote interface (IoT) for online metering
 - plastic scanner
+- bar code scanner
+
 
 ![](./draft.png)
 
