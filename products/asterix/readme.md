@@ -2,38 +2,31 @@
 
 General overview for a PET bottle vending shredder machine.
 
-[Shredder Test Videos](https://www.morrentrading.com/shredder-s/basis-shredderblok-am2018-200<br/>https://www.morrentrading.com/movies)
-
-[Shredder Pictures](https://www.morrentrading.com/shredder-s/basis-shredderblok-am2018-20)
-
-[Shredder firmware](https://github.com/plastic-hub/firmware/blob/master/shredder-extrusion/README.md)
-
 ## Features of the first revision
 
-- IP55 grade housing and electronics
-- sound prove
-- auto - suspend/resume
-- air filters & ventilation
-- auto - reverse
-- load capacity : 4 large PET bottles at a time
-- transport wheels
-- auto-shred when hopper is loaded
-- LED & audio feedback
-- minimal user interface
-- power meter
-- service & maintenance interface via USB developer port
-- 2 cartridges: one big one for PET, one for the bottle caps/lids. both have wheels and a spring loaded door.
-- service door for cleaning
+* IP55 grade housing and electronics
+* sound prove
+* auto - suspend/resume
+* air filters & ventilation
+* auto - reverse
+* load capacity : 4 large PET bottles at a time
+* transport wheels
+* auto-shred when hopper is loaded
+* LED & audio feedback
+* minimal user interface
+* power meter
+* service & maintenance interface via USB developer port
+* 2 cartridges: one big one for PET, one for the bottle caps/lids.both have wheels and a spring loaded door.
+* service door for cleaning
 
 ### Optional features
 
-- large touchscreen for network KPIs and shredding profiles
-- key lock
-- haptic buttons
-- remote interface (IoT) for online metering
-- plastic scanner
-- bar code scanner
-
+* large touchscreen for network KPIs and shredding profiles
+* key lock
+* haptic buttons
+* remote interface (IoT) for online metering
+* plastic scanner
+* bar code scanner
 
 ![](./draft.png)
 
@@ -59,12 +52,36 @@ General overview for a PET bottle vending shredder machine.
 |  Cartridges - Full Sensor | Electronics | 20 | 1 |  |  |  |
 |  LED Feedback | Electronics | 100 | 3 | 5 | Not tested |  |
 |  Audio Feedback | Electronics | 10 | 1 | 1 | Solved |  |
-|  Suspend/Resume | Electronics | 100 | 3 | 10 | Not impl. | Middle |
+|  Suspend/Resume | Electronics | 100 | 3 | 10 | Not impl.| Middle |
 |  Inverter | Electronics | 250 | 2 | 1 | Solved | Middle |
 |   |  |  |  |  |  |  |
-|  Control - Board / Fuses/,... | Electronics | 200 | 5 | 1 | Solved | Middle |
+|  Control - Board / Fuses/, ... | Electronics | 200 | 5 | 1 | Solved | Middle |
 |   |  |  |  |  |  |  |
-|  Sourcing,... | Logistics | 150 | 10 |  |  |  |
+|  Sourcing, ... | Logistics | 150 | 10 |  |  |  |
 |   |  | 4290 | 126 | 151 |  |  |
 
 ## References
+
+- [Table Source](https://docs.google.com/spreadsheets/d/1SPyHnEtUMeZ_hL9212lvQF86MP4abl22_4R1H0gXtW0/edit#gid=0)
+
+- [Components Source](https://docs.google.com/spreadsheets/d/1SPyHnEtUMeZ_hL9212lvQF86MP4abl22_4R1H0gXtW0/edit#gid=150475076&range=A1)
+
+- [Drawings](src/components/) | [Renderings](src/renderings)
+
+- [Firmware](src/firmware)
+
+- [Orders](src/orders)
+
+- [Tests](src/tests)
+
+<hr/>
+
+## Vendor references
+
+[Shredder Test Videos](https://www.morrentrading.com/shredder-s/basis-shredderblok-am2018-200<br/>https://www.morrentrading.com/movies)
+
+[Shredder Pictures](https://www.morrentrading.com/shredder-s/basis-shredderblok-am2018-20)
+
+[Shredder Firmware](https://github.com/plastic-hub/firmware/blob/master/shredder-extrusion/README.md)
+
+<hr/>
