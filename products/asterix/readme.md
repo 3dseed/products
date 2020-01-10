@@ -38,13 +38,13 @@ General overview for a PET bottle vending shredder machine.
 |  Shredder/Motor-Mounts | Framework |  |  |  |  |  |
 |  Motor | Motor | 560 | 1 | 2 | Solved |  |
 |   |  |  |  |  |  |  |
-|  Chassie/Enclosure | Framework | 300 | 16 | 24 |  |  |
+|  Chassie/Enclosure | Framework | 300 | 16 | 24 | Design |  |
 |  Panels | Skinning | 200 | 5 | 10 | Solved |  |
 |  Ventilation & Airfilter | Framework | 200 | 8 | 16 | Design |  |
 |  Segment Joinery | Framework | 150 | 10 | 16 | Solved | Middle |
 |  Cartridges | Framework | 200 | 10 | 10 | Design | Middle |
 |  Wheels & mounts | Framework | 100 | 4 | 1 | Design | Middle |
-|   |  |  |  |  |  |  |
+|  Cartridge loaded Sensors | Electronics | 20 | 2 | 1 | Not Impl. |  |
 |  Chassie- Sensors | Electronics | 100 | 5 | 10 | Solved |  |
 |  Motor Heat Sensors | Electronics | 30 | 2 | 2 | Solved |  |
 |  Auto-Reverse | Electronics | 50 | 4 | 2 | Solved |  |
