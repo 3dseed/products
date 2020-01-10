@@ -18,6 +18,7 @@ General overview for a PET bottle vending shredder machine.
 * service & maintenance interface via USB developer port
 * 2 cartridges: one big one for PET, one for the bottle caps/lids.both have wheels and a spring loaded door.
 * service door for cleaning
+* service-door, chassie, enclosure, cartridge - open|close - sensor
 
 ### Optional features
 
