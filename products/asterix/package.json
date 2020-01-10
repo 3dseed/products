@@ -1,6 +1,6 @@
 {
   "name": "asterix",
-  "version": "0.1",
+  "version": "0.2",
   "dependencies": {
     "git-module": "^0.0.8"
   },

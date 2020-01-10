@@ -30,7 +30,7 @@ General overview for a PET bottle vending shredder machine.
 
 ![](./draft.png)
 
-|  **Component Name** | **Component Section** | **Component Price / Estimate** | **Production / Duration (hours)** | **Design / Prototyping Duration (hours)** | **Status** | **Risk** |
+|  **Component Name** | **Component Section** | **Component Price/Estimate** | **Production/Duration (hours)** | **Design/Prototyping-Duration (hours)** | **Status** | **Risk** |
 | --- | --- | --- | --- | --- | --- | --- |
 |  Shredder Box | Shredding | 1450 | 24 | 12 | Solved |  |
 |  Coupling | Drive | 120 | 4 | 10 | Design |  |
@@ -38,10 +38,10 @@ General overview for a PET bottle vending shredder machine.
 |  Shredder/Motor-Mounts | Framework |  |  |  |  |  |
 |  Motor | Motor | 560 | 1 | 2 | Solved |  |
 |   |  |  |  |  |  |  |
-|  Chassie/Enclosure | Framework | 300 | 16 | 24 |  | High |
-|  Panels | Skinning |  | 5 | 10 |  | High |
+|  Chassie/Enclosure | Framework | 300 | 16 | 24 |  |  |
+|  Panels | Skinning | 200 | 5 | 10 | Solved |  |
 |  Ventilation & Airfilter | Framework | 200 | 8 | 16 | Design |  |
-|  Segment Joinery | Framework | 150 | 10 | 16 | Design | High |
+|  Segment Joinery | Framework | 150 | 10 | 16 | Solved | Middle |
 |  Cartridges | Framework | 200 | 10 | 10 | Design | Middle |
 |  Wheels & mounts | Framework | 100 | 4 | 1 | Design | Middle |
 |   |  |  |  |  |  |  |
@@ -52,13 +52,12 @@ General overview for a PET bottle vending shredder machine.
 |  Cartridges - Full Sensor | Electronics | 20 | 1 |  |  |  |
 |  LED Feedback | Electronics | 100 | 3 | 5 | Not tested |  |
 |  Audio Feedback | Electronics | 10 | 1 | 1 | Solved |  |
-|  Suspend/Resume | Electronics | 100 | 3 | 10 | Not impl.| Middle |
+|  Suspend/Resume | Electronics | 100 | 3 | 10 | Not impl. | Middle |
 |  Inverter | Electronics | 250 | 2 | 1 | Solved | Middle |
 |   |  |  |  |  |  |  |
-|  Control - Board / Fuses/, ... | Electronics | 200 | 5 | 1 | Solved | Middle |
+|  Control - Board / Fuses/,... | Electronics | 200 | 5 | 1 | Solved | Middle |
 |   |  |  |  |  |  |  |
-|  Sourcing, ... | Logistics | 150 | 10 |  |  |  |
-|   |  | 4290 | 126 | 151 |  |  |
+|  Sourcing,... | Logistics | 150 | 10 |  |  |  |
 
 ## References
 
