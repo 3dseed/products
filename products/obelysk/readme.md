@@ -34,7 +34,6 @@ General overview for a PET bottle vending shredder machine.
 - plastic scanner
 - bar code scanner
 
-
 ![](./draft.png)
 
 |  **Component Name** | **Component Section** | **Component Price / Estimate** | **Production / Duration (hours)** | **Design / Prototyping Duration (hours)** | **Status** | **Risk** |
