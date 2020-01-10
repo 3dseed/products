@@ -1,6 +1,14 @@
-# Components & Estimates
+# Overview
 
-General overview for a PET bottle vending shredder machine.
+**brief** : General overview for a PET bottle vending shredder machine
+
+**document scope** : client, vendor, manufacturer
+
+**version** : 0.2
+
+**status** : design & prototyping
+
+**license** : proprietary
 
 ## Features of the first revision
 
