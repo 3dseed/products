@@ -12,14 +12,14 @@ Variants : Addon, Standalone, Asterix, IdeFix mini
 
 **license** : open-source
 
-
 <hr/>
 
-![](./overview.jpg)
+<%specs%>
 
-<hr/>
+<%requirements%>
 
-## References
+<%preview%>
 
-- [Short video rev.3](https://www.youtube.com/watch?v=ElOnSA7pS18&feature=youtu.be)
+<%components%>
 
+<%assembly%>
