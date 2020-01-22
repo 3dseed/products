@@ -30,3 +30,5 @@ Variants : Addon, Standalone, Asterix, IdeFix mini
 - [PP Wiki - components](https://precious-plastic.org/home/library/components/)
 - [PP Forum - PET print](https://davehakkens.nl/community/forums/topic/3d-printer-for-pet-particles-no-filament-ever/)
 - [PET Printer](https://www.youtube.com/watch?v=EbxNa3WLpjA)
+- [Youtube channel : large scale PET grinder & shredder](https://www.youtube.com/watch?v=3xWvHz9JjjU)
+
