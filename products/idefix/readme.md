@@ -26,7 +26,7 @@ Variants : Addon, Standalone, Asterix, IdeFix mini
 ## Related
 
 - [Noah umbrella project](https://github.com/plastic-hub/noah/blob/master/machines/Noah.md)
-- [PP and filament](https://precious-plastic.org/home/library/articles/filament/)
+- [PP and filament & 3D-print projects](https://precious-plastic.org/home/library/articles/filament/)
 - [PP Wiki - components](https://precious-plastic.org/home/library/components/)
 - [PP Forum - PET print](https://davehakkens.nl/community/forums/topic/3d-printer-for-pet-particles-no-filament-ever/)
 - [PET Printer](https://www.youtube.com/watch?v=EbxNa3WLpjA)
