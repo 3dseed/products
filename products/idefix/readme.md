@@ -23,4 +23,3 @@ Variants : Addon, Standalone, Asterix, IdeFix mini
 <%components%>
 
 <%assembly%>
-
