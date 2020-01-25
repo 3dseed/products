@@ -2,6 +2,8 @@
 
 Variants : Addon, Standalone, Asterix, IdeFix mini
 
+This build can be applied to PP v3 shredders. It only needs a few steel bars and custom made grinder knifes
+
 **brief** : General overview for a PET grinder
 
 **document scope** : client, vendor, manufacturer
@@ -11,6 +13,10 @@ Variants : Addon, Standalone, Asterix, IdeFix mini
 **status** : design & prototyping
 
 **license** : open-source
+
+<hr/>
+
+
 
 <hr/>
 
