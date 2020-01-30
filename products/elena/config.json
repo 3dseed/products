@@ -1,3 +1,6 @@
 {
-    "product_name":"Arbor - injection machine - \"Elena\" - Catalonia"
+    "product_name":"Arbor - injection machine - \"Elena\" - Catalonia",
+    "price" : "840 Euro",
+    "price_total" : "1136 Euro (VAT & transport)",
+    "shipping_eu" : "120 Euro"
 }
