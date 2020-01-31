@@ -17,7 +17,7 @@
 * auto - suspend/resume
 * air filters & ventilation
 * auto - reverse
-* load capacity : 4 large PET bottles at a time
+* load capacity : 2 large PET bottles at a time
 * transport wheels
 * auto-shred when hopper is loaded
 * LED & audio feedback
@@ -25,7 +25,6 @@
 * power meter
 * service & maintenance interface via USB developer port
 * 2 cartridges: one big one for PET, one for the bottle caps/lids.both have wheels and a spring loaded door.
-* service door for cleaning
 * service-door, chassie, enclosure, cartridge - open|close - sensor
 
 ### Optional features
@@ -83,6 +82,9 @@
 - [Tests](src/tests)
 
 - [Production Parts](src/production)
+
+- [Datasheets](./datasheets)
+
 
 <hr/>
 
