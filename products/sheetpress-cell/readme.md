@@ -1,6 +1,7 @@
 # Interlockable sheet press system based on the [v4 sheetpress](../sheetpress-cell/)
 
-![](./renderings/pers2.png)
+![](./renderings/pers2.jpg)
+
 
 ## Resources
 
