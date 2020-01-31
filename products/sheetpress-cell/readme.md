@@ -1,4 +1,4 @@
-# Interlockable sheet press system based on the [v4 sheetpress](../sheetpress-cell/)
+# Interlockable sheet press system based on the [v4 sheetpress](https://github.com/plastic-hub/pp-v4/tree/master/sheetpress)
 
 ![](./renderings/pers2.jpg)
 
