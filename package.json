@@ -4,7 +4,8 @@
   "description": "creates templates - picked up later a form generator and some backend",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "elena-gallery" :"sigal build -d products/elena/media/ products/elena/gallery"
   },
   "author": "",
   "license": "ISC",
