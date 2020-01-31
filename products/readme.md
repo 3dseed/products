@@ -9,4 +9,3 @@
 [Idefix](./idefix/)
 
 ![](./idefix/renderings/grinder_pers.png)
-
